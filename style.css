@@ -19,9 +19,9 @@ html, body {
     font-family: 'League Spartan', sans-serif;
     scroll-behavior: smooth;
 }
-/* main {
+main {
     margin: 0 10px;
-} */
+}
 nav li {
     list-style: none;
     padding: 15px;
@@ -633,4 +633,4 @@ mark {
         display: flex;
         flex-direction: row;
     }
-}
+} 
